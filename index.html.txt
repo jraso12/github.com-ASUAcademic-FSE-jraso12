@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+Sample index.html file>
+</title>
+<body>
+<hl> Sample website </hl>
+<br />
+
+<b>welcome to asu </b>
+<i>home of the sun devils </i>
+<hr/>
+
+
+<img src="asu.campus.jpg” width=“300”/>
+<hr>
+<a href ="http://www.asu.edu">ASU webpage.</a>
+
+<hr>
+<a href =“resume.html”>
+
+</body>
+</html>
